@@ -1,0 +1,116 @@
+body{
+    background-color: #e6ffff;
+    text-align: center;
+    padding-top: 100px;
+    font-family: fam;
+   }
+
+h1{
+    font-family: serif;
+    margin-top: 0;
+    font-size: 50px;
+    color: #66BFBF;
+}
+p{
+    line-height: 2;
+}
+.hello{
+    font-size: 50px;
+    font-variant: initial;
+}
+.BottomCloud{
+   position: absolute;
+}
+.TopCloud{
+   position: absolute;
+   right: 200px;
+}
+h2{
+    font-size: 25px;
+    color: #66BFBF;
+    font-weight: normal;
+    line-height: 2;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.image, .Pizimage{
+    width: 100px;
+    height: 100px;
+    position: relative;
+}
+.tabledata{
+    margin-left: 400px;
+    text-align: left;
+}
+h3{
+    color: #11999E;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#DesignDev{
+    padding-right: 50px;
+    padding-bottom: 0px;
+    padding-top: 30px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+.wording{
+    margin-left: 50px;
+}
+.Pizza{
+    padding-left: 0px;
+    padding-right: 400px;
+    margin-top: 50px;
+    
+}
+.Pizimage{
+    left: 0px;
+    right: 0px;
+    margin-right: 400px;
+}
+.PizWording{
+    text-align: left;
+    width: 350px;
+    height: 50px;
+}
+    
+.pizzatable{
+    margin-left: 400px;
+}
+a{
+    color: blue;
+    text-align: center;
+    line-break: normal;
+    margin-bottom: 120px;
+}
+hr{
+    
+    border:dotted;
+    width: 200px;
+    /*background-color: lavender;*/
+    border-color: lavender;
+    border-bottom: none;
+}
+button{
+    font-size: 20px;
+    background-color: darkturquoise;
+    border-radius: 5px;
+}
+.contactlink{
+    margin-top: 50px;
+    background-color:darkturquoise;
+    height: 150px;
+    padding-top: 50px;
+    color: #11999E;
+}
+.LinkedIn{
+    margin-left: 0px;
+    margin-right: 50px;
+
+}
+.Twitter{
+    margin-right: 50px;
+    margin-left: 0px;
+}
+
+
+
+
